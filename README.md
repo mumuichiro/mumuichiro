@@ -1,7 +1,7 @@
 
  ![radicaled](https://user-images.githubusercontent.com/76927219/136712347-7c2be5ac-26f9-4392-adae-8b9576aa1dc2.gif)
 
-
+<b>Olá, eu sou o Eduardo</b>
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning web development at awari
 - 👯 I’m looking to collaborate on web development,machine learning,data science and cyber security
