@@ -2,10 +2,8 @@
  ![radicaled](https://user-images.githubusercontent.com/76927219/136712347-7c2be5ac-26f9-4392-adae-8b9576aa1dc2.gif)
 
 <b>Hi, i'm Eduardo</b>
-- 🔭 I’m currently working on web development
-- 🌱 I’m currently learning web development at awari
+- 🔭 I’m currently working at Data Scientist at Consorcios Club
 - 👯 I’m looking to collaborate on web development,machine learning,data science and cyber security
-- 🤔 I’m looking for help with python and web development
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/eduardo-rigueira-reis-659766214/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <div style="display: inline_block"><br>
