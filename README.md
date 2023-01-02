@@ -1,5 +1,5 @@
 
- ![radicaled](https://user-images.githubusercontent.com/76927219/136712347-7c2be5ac-26f9-4392-adae-8b9576aa1dc2.gif)
+ 
 
 <b>Hi, i'm Eduardo</b>
 - 🔭 I’m currently working at Data Scientist at Consorcios Club
